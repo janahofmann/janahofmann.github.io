@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,96 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoctoral researcher at Microsoft working on formal models and specifications languages describing microarchitectural side channels. I obtained my PhD from Saarland University (while working at CISPA) in 2022, where I was advised by Bernd Finkbeiner.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# News!
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Feb'23: I joined the PC of [ICTAC 2023](https://ictac2023.compsust.utec.edu.pe).
+* Feb'23: My PhD thesis is now available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/35154).
+* Dec'22: I successfully defended my thesis!
+* Sep'22: I joined the [Confidential Computing Group](https://www.microsoft.com/en-us/research/group/confidential-computing/) at Microsoft Research.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Publications
+* [Logical Methods for the Hierarchy of Hyperlogics](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35154/1/dissertation_jana_hofmann.pdf)<br>
+  Dissertation<br>
+  Saarland University, 2022
+* [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
+  With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
+  To appear at the 36th IEEE Computer Security Foundations Symposium (**CSF 2023**).
+* [Deciding Hyperproperties Combined with Functional Specifications](https://arxiv.org/pdf/2205.15138.pdf)<br>
+  With Raven Beutner, David Carral, Bernd Finkbeiner and Markus Krötzsch<br>
+  37th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2022**).
+* [Linear-time Temporal Logic with Team Semantics: Expressivity and Complexity](https://arxiv.org/pdf/2010.03311.pdf)<br>
+  With Jonni Virtema, Bernd Finkbeiner, Juha Kontinen, and Fan Yang<br>
+  41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (**FSTTCS 2021**).
+* [Runtime Enforcement of Hyperproperties](https://arxiv.org/pdf/2203.04146.pdf)<br>
+  With Norine Coenen, Bernd Finkbeiner, Christopher Hahn and Yannick Schillo<br>
+  19th International Symposium on Automated Technology for Verification and Analysis (**ATVA 2021**).
+* [The Hierarchy of Hyperlogics: A Knowledge Reasoning Perspective](https://www.react.uni-saarland.de/publications/CFHH20.pdf)<br>
+  With Norine Coenen, Bernd Finkbeiner and Christopher Hahn<br>
+  17th International Conference on Principles of Knowledge Representation and Reasoning, Recently Published Research Track (**KR 2020**).
+* [Realizing Omega-regular Hyperproperties](https://arxiv.org/pdf/2101.07161.pdf)<br>
+  With Bernd Finkbeiner, Christopher Hahn and Leander Tentrup<br>
+  32nd International Conference on Computer-Aided Verification (**CAV 2020**).
+* [The Hierarchy of Hyperlogics](https://arxiv.org/pdf/2005.05934.pdf)<br>
+  With Norine Coenen, Bernd Finkbeiner and Christopher Hahn<br>
+  34th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2019**).
 
-**Markdown generator**
+# Talks
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* **Deciding Hyperproperties Combined with Functional Specifications**<br>
+  Paper presentation at LICS'22, [slides](http://janahofmann.github.io/files/talk_LICS2022.pdf)
+* **The Hierarchy of Hyperlogics: A Knowledge Reasoning Perspective**<br>
+  Recently published research track at KR'22, [slides](http://janahofmann.github.io/files/talk_KR2020.pdf), [YouTube recording](https://www.youtube.com/watch?v=6RvgBaWC374)
+* **Logics for Hyperproperties**<br>
+  Invited Talk at IST Austria, July 2020, [slides](http://janahofmann.github.io/files/talk_ISTAustria.pdf)
+* **The Hierarchy of Hyperlogics**<br>
+  Paper presentation at LICS'19, [slides](http://janahofmann.github.io/files/talk_LICS2019.pdf)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+# Teaching
+## Supervised Students
+* **Janine Lohse**, Bachelor's thesis: Model Checking for (Hyper) Temporal Stream Logic (2022)
+* **Yannick Schillo**, Research project: Specifying Android Apps with TSL (2020 - 2022)
+* **Frederik Scheerer**, Bachelor's thesis: Monitoring Smart Contracts with RTLola (2021)
+* **Julia Tillman**, Bachelor's thesis: Temporal Stream Logic for Hyperproperties (2020)
+* **Matthias Cosler**, Bachelor's thesis: Towards Synthesizing Smart Contracts: Reducing ATL* Synthesis to HyperLTL Synthesis (2019)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Assisted Lectures
+### During PhD
+* Winter 2020/2021:	Assistant for Basic Course Programmierung 1<br>
+  received **Busy Beaver award** for outstanding teaching performance
+* Winter 2019/2020:	Assistant for Core Course Verification
+* Summer 2019: Advisor for Proseminar Softwarezuverlässigkeit (Software Reliability)
+* Winter 2018/2019:	Assistant for Seminar Hyperproperties
+
+### As Student
+* Summer 2018: Coach for Mathematics Precourse at Saarland University
+* Summer 2017:	Lecturer and Coach for Mathematics Precourse at Saarland University<br>
+  received **BeStE award** for student initiatives and extraordinary commitment
+* Summer 2017:	Student TA for Theoretical Computer Science at the School of Informatics, University of Edinburgh
+* Winter 2016/2017:	Student TA for Informatics I – Functional Programming at the School of Informatics, University of Edinburgh
+* Summer 2016: Coach for Mathematics Precourse, Saarland University
+* Summer 2016: Student TA for Concurrent Programming, Saarland University
+* Winter 2015/2016:	Organizer of Didactic Seminar for Re-exam Student TAs
+* Winter 2015/2016:	Supervision Student TA for Programming 1, Saarland University
+* Summer 2015: Coach for Mathematics Precourse at Saarland University, Saarland University
+* Winter 2014/2015:	Organizer of Didactic Seminar for Re-exam Student TAs, Saarland University
+* Winter 2014/2015:	Student TA for Programming 1, Saarland University
+* Winter 2013/2014:	Re-exam Student TA for Programmierung 1, Saarland University
+
+# Scientific Service
+* **Program Committee**: ICTAC'23, CAV'22 Artifact Evaluation
+* **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
+
+# CV
+
+| ----------- | ----------- |
+| Since Sep'22 | Postdoctoral Researcher at Microsoft Research |
+| 2018 - 2022 | Dr. rer. nat. at Saarland University / CISPA (summa cum laude)
+| 2016 - 2017 | M.Sc. in Computer Science at University of Edinburgh (with Distinction)|
+| 2013 - 2016 | B.Sc. in Computer Science at Saarland University |
+
+A full (occasionally updated) CV can be found [here](http://janahofmann.github.io/files/cv_jana_hofmann.pdf).
