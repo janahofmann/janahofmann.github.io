@@ -96,8 +96,8 @@ I am a postdoctoral researcher at Microsoft working on formal models and specifi
 
 | ----------- | ----------- |
 | Since Sep'22 | Postdoctoral Researcher at Microsoft Research |
-| 2018 - 2022 | Dr. rer. nat. at Saarland University / CISPA (summa cum laude)
-| 2016 - 2017 | M.Sc. in Computer Science at University of Edinburgh (with Distinction)|
+| 2018 - 2022 | Dr. rer. nat. at Saarland University / CISPA
+| 2016 - 2017 | M.Sc. in Computer Science at University of Edinburgh|
 | 2013 - 2016 | B.Sc. in Computer Science at Saarland University |
 
 A full (occasionally updated) CV can be found [here](http://janahofmann.github.io/files/cv_jana_hofmann.pdf).
