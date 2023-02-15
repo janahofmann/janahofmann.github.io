@@ -93,7 +93,11 @@ I am a postdoctoral researcher at [Microsoft](https://www.microsoft.com/en-us/re
 * **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
 
 # CV
-
+<style scoped>
+table {
+  font-size: 18px;
+}
+</style>
 | ----------- | ----------- |
 | Since Sep'22 | Postdoctoral Researcher at Microsoft Research |
 | 2018 - 2022 | Dr. rer. nat. at Saarland University / CISPA
