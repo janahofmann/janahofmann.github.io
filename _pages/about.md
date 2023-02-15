@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Microsoft working on formal models and specifications languages describing microarchitectural side channels. I obtained my PhD from Saarland University (while working at CISPA) in 2022, where I was advised by Bernd Finkbeiner.
+I am a postdoctoral researcher at [Microsoft](https://www.microsoft.com/en-us/research/group/confidential-computing/) working on formal models and specifications languages describing microarchitectural side channels. I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html).
 
 
 # News!
