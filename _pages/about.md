@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Microsoft](https://www.microsoft.com/en-us/research/group/confidential-computing/) working on formal models and specifications languages describing microarchitectural side channels. I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html).
+I am a postdoctoral researcher at [Microsoft](https://www.microsoft.com/en-us/research/group/confidential-computing/) interested in specification languages and algorithms for relational properties (hyperproperties). Currently, I work on modelling information leakage through microarchtectural side channels.
+
+I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html).
 
 
 # News!
@@ -93,15 +95,10 @@ I am a postdoctoral researcher at [Microsoft](https://www.microsoft.com/en-us/re
 * **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
 
 # CV
-<style scoped>
-table {
-  font-size: 18px;
-}
-</style>
-| ----------- | ----------- |
-| Since Sep'22 | Postdoctoral Researcher at Microsoft Research |
-| 2018 - 2022 | Dr. rer. nat. at Saarland University / CISPA
-| 2016 - 2017 | M.Sc. in Computer Science at University of Edinburgh|
-| 2013 - 2016 | B.Sc. in Computer Science at Saarland University |
+
+* Since Sep'22: Postdoctoral Researcher at Microsoft Research
+* 2018 - 2022: Dr. rer. nat. at Saarland University / CISPA
+* 2016 - 2017: M.Sc. in Computer Science at University of Edinburgh
+* 2013 - 2016: B.Sc. in Computer Science at Saarland University 
 
 A full (occasionally updated) CV can be found [here](http://janahofmann.github.io/files/cv_jana_hofmann.pdf).
