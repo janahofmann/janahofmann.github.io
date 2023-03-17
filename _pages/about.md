@@ -20,6 +20,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * Feb'23: My PhD thesis is now available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/35154).
 
 <details>
+&emsp;
 <summary>Show more news</summary>
   <ul>
     <li> Dec'22: I successfully defended my thesis!</li>
