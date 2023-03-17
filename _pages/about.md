@@ -18,13 +18,13 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * March'23: Our paper *Automata-Based Software Model Checking of Hyperproperties* has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself.
 * Feb'23: I joined the PC of [ICTAC 2023](https://ictac2023.compsust.utec.edu.pe).
 * Feb'23: My PhD thesis is now available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/35154).
-&emsp
+
 <details>
-<summary>Older news</summary>
+<summary>  Older news</summary>
 <br>
   <ul>
-    <li> Dec'22: I successfully defended my thesis!
-    <li> Sep'22: I joined the <a href="https://www.microsoft.com/en-us/research/group/confidential-computing/">Confidential Computing Group</a> at Microsoft Research.
+    <li> Dec'22: I successfully defended my thesis!</li>
+    <li> Sep'22: I joined the <a href="https://www.microsoft.com/en-us/research/group/confidential-computing/">Confidential Computing Group</a> at Microsoft Research.</li>
   </ul>
 </details>
 <br>
