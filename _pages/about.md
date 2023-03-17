@@ -18,15 +18,16 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * March'23: Our paper *Automata-Based Software Model Checking of Hyperproperties* has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself.
 * Feb'23: I joined the PC of [ICTAC 2023](https://ictac2023.compsust.utec.edu.pe).
 * Feb'23: My PhD thesis is now available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/35154).
-
 <details>
-<summary>More News</summary>
+<summary>**More News**</summary>
+<br>
 <!--Leave blank line-->
 
-  * Dec'22: I successfully defended my thesis!
-  * Sep'22: I joined the [Confidential Computing Group](https://www.microsoft.com/en-us/research/group/confidential-computing/) at Microsoft Research.
-</details>
+  + Dec'22: I successfully defended my thesis!
+  + Sep'22: I joined the [Confidential Computing Group](https://www.microsoft.com/en-us/research/group/confidential-computing/) at Microsoft Research.
 
+</details>
+<br>
 
 # Publications
 * [Logical Methods for the Hierarchy of Hyperlogics](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35154/1/dissertation_jana_hofmann.pdf)<br>
