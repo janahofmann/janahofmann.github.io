@@ -29,6 +29,9 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <br>
 
 # Publications
+* [Automata-Based Software Model Checking of Hyperproperties](https://arxiv.org/pdf/2303.14796.pdf)<br>
+  With Bernd Finkbeiner, Hadar Frenkel and Janine Lohse<br>
+  To appear at NASA Formal Methods (**NFM 2023**).
 * [Logical Methods for the Hierarchy of Hyperlogics](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35154/1/dissertation_jana_hofmann.pdf)<br>
   Dissertation<br>
   Saarland University, 2022
