@@ -17,7 +17,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 * March'23: Our paper *Automata-Based Software Model Checking of Hyperproperties* has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself.
 * Feb'23: I joined the PC of [ICTAC 2023](https://ictac2023.compsust.utec.edu.pe).
-* Feb'23: My PhD thesis is now available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/35154).
+* Feb'23: My PhD thesis is now available [here](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf).
 
 <details>
 <summary>Show more news</summary>
@@ -32,7 +32,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * [Automata-Based Software Model Checking of Hyperproperties](https://arxiv.org/pdf/2303.14796.pdf)<br>
   With Bernd Finkbeiner, Hadar Frenkel and Janine Lohse<br>
   To appear at NASA Formal Methods (**NFM 2023**).
-* [Logical Methods for the Hierarchy of Hyperlogics](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35154/1/dissertation_jana_hofmann.pdf)<br>
+* [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
   Dissertation<br>
   Saarland University, 2022
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
