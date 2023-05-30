@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Microsoft](https://www.microsoft.com/en-us/research/group/confidential-computing/) interested in specification languages and algorithms for relational properties (hyperproperties). Currently, I work on modelling information leakage through microarchtectural side channels.
+I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (hyperproperties). Currently, I work on modelling information leakage through microarchtectural side channels.
 
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html).
 
 
 # News!
 
+* May'23: I joined the PC of [CSF 2024](https://csf2024.ieee-security.org/index.html).
 * March'23: Our paper *Automata-Based Software Model Checking of Hyperproperties* has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself.
 * Feb'23: I joined the PC of [ICTAC 2023](https://ictac2023.compsust.utec.edu.pe).
-* Feb'23: My PhD thesis is now available [here](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf).
 
 <details>
 <summary>Show more news</summary>
   <ul>
+    <li> Feb'23: My PhD thesis is now available [here](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf).
     <li> Dec'22: I successfully defended my thesis!</li>
     <li> Sep'22: I joined the <a href="https://www.microsoft.com/en-us/research/group/confidential-computing/">Confidential Computing Group</a> at Microsoft Research.</li>
   </ul>
@@ -32,12 +33,12 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * [Automata-Based Software Model Checking of Hyperproperties](https://arxiv.org/pdf/2303.14796.pdf)<br>
   With Bernd Finkbeiner, Hadar Frenkel and Janine Lohse<br>
   To appear at NASA Formal Methods (**NFM 2023**).
-* [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
-  Dissertation<br>
-  Saarland University, 2022
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
   With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
   To appear at the 36th IEEE Computer Security Foundations Symposium (**CSF 2023**).
+* [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
+  Dissertation<br>
+  Saarland University, 2022
 * [Deciding Hyperproperties Combined with Functional Specifications](https://arxiv.org/pdf/2205.15138.pdf)<br>
   With Raven Beutner, David Carral, Bernd Finkbeiner and Markus Krötzsch<br>
   37th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2022**).
@@ -101,12 +102,11 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * Winter 2013/2014:	Re-exam Student TA for Programmierung 1, Saarland University
 
 # Scientific Service
-* **Program Committee**: ICTAC'23, CAV'22 Artifact Evaluation
+* **Program Committee**: CSF'23, ICTAC'23, CAV'22 Artifact Evaluation
 * **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
 
 # CV
-
-* Since Sep'22: Postdoctoral Researcher at Microsoft Research
+* Since Sep'22: Postdoctoral Researcher at Microsoft Research / Azure Research
 * 2018 - 2022: Dr. rer. nat. at Saarland University / CISPA
 * 2016 - 2017: M.Sc. in Computer Science at University of Edinburgh
 * 2013 - 2016: B.Sc. in Computer Science at Saarland University 
