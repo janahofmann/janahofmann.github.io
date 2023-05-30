@@ -22,8 +22,8 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <details>
 <summary>Show more news</summary>
   <ul>
-    <li> Feb'23: My PhD thesis is now available [here](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf).
-    <li> Dec'22: I successfully defended my thesis!</li>
+    <li> Feb'23: My PhD thesis is now available <a href="https://janahofmann.github.io/files/dissertation_jana_hofmann.pdf">here</a>.</li>
+    <li> Dec'22: I successfully defended my Ph.D. thesis!</li>
     <li> Sep'22: I joined the <a href="https://www.microsoft.com/en-us/research/group/confidential-computing/">Confidential Computing Group</a> at Microsoft Research.</li>
   </ul>
 </details>
