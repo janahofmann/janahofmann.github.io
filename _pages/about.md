@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (hyperproperties). Currently, I work on modelling information leakage through microarchtectural side channels.
+I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (hyperproperties). Currently, I work on modelling information leakage of microarchtectural side channels.
 
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html).
 
 
 # News!
 
+* July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!
+* June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!
 * May'23: I joined the PC of [CSF 2024](https://csf2024.ieee-security.org/index.html).
-* March'23: Our paper *Automata-Based Software Model Checking of Hyperproperties* has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself.
-* Feb'23: I joined the PC of [ICTAC 2023](https://ictac2023.compsust.utec.edu.pe).
 
 <details>
 <summary>Show more news</summary>
   <ul>
+    <li>March'23: Our paper <i>Automata-Based Software Model Checking of Hyperproperties</i> has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself. </li>
+    <li> Feb'23: I joined the PC of <a href="https://ictac2023.compsust.utec.edu.pe">ICTAC 2023</a>.</li>
     <li> Feb'23: My PhD thesis is now available <a href="https://janahofmann.github.io/files/dissertation_jana_hofmann.pdf">here</a>.</li>
     <li> Dec'22: I successfully defended my Ph.D. thesis!</li>
     <li> Sep'22: I joined the <a href="https://www.microsoft.com/en-us/research/group/confidential-computing/">Confidential Computing Group</a> at Microsoft Research.</li>
