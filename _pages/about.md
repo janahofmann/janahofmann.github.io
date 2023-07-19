@@ -15,6 +15,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 # News!
 
+* July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper [here](https://arxiv.org/pdf/2208.07180.pdf).
 * July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!
 * June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!
 * May'23: I joined the PC of [CSF 2024](https://csf2024.ieee-security.org/index.html).
@@ -32,12 +33,19 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <br>
 
 # Publications
+* Reactive Synthesis of Smart Contract Control Flows<br>
+  With Bernd Finkbeiner, Noemi Passing, and Florian Kohn<br>
+  To appear at the 21st International Symposium on Automated Technology for Verification and Analysis (**ATVA 2023**).
+* Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions<br>
+  With Emanuele Vannacci, Cédric Fournet, Boris Köpf, and Oleksii Oleksenko<br>
+  To appear at **USENIX Security 2023**.
 * [Automata-Based Software Model Checking of Hyperproperties](https://arxiv.org/pdf/2303.14796.pdf)<br>
   With Bernd Finkbeiner, Hadar Frenkel and Janine Lohse<br>
-  To appear at NASA Formal Methods (**NFM 2023**).
+  NASA Formal Methods (**NFM 2023**).
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
   With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
-  To appear at the 36th IEEE Computer Security Foundations Symposium (**CSF 2023**).
+  36th IEEE Computer Security Foundations Symposium (**CSF 2023**).
+  :trophy: **Distinguished Paper Award**
 * [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
   Dissertation<br>
   Saarland University, 2022
