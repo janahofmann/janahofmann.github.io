@@ -44,8 +44,8 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
   NASA Formal Methods (**NFM 2023**).
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
   With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
-  36th IEEE Computer Security Foundations Symposium (**CSF 2023**).
-  :trophy: **Distinguished Paper Award**
+  36th IEEE Computer Security Foundations Symposium (**CSF 2023**).<br>
+  **Distinguished Paper Award** :trophy:
 * [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
   Dissertation<br>
   Saarland University, 2022
