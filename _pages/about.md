@@ -33,12 +33,12 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <br>
 
 # Publications
-* Reactive Synthesis of Smart Contract Control Flows<br>
+* [Reactive Synthesis of Smart Contract Control Flows](https://arxiv.org/pdf/2205.06039.pdf)<br>
   With Bernd Finkbeiner, Noemi Passing, and Florian Kohn<br>
   To appear at the 21st International Symposium on Automated Technology for Verification and Analysis (**ATVA 2023**).
-* Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions<br>
+* [Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions](https://www.usenix.org/system/files/usenixsecurity23-hofmann.pdf)<br>
   With Emanuele Vannacci, Cédric Fournet, Boris Köpf, and Oleksii Oleksenko<br>
-  To appear at **USENIX Security 2023**.
+  **USENIX Security 2023**.
 * [Automata-Based Software Model Checking of Hyperproperties](https://arxiv.org/pdf/2303.14796.pdf)<br>
   With Bernd Finkbeiner, Hadar Frenkel and Janine Lohse<br>
   NASA Formal Methods (**NFM 2023**).
