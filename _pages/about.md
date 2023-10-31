@@ -20,11 +20,11 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper [here](https://arxiv.org/pdf/2208.07180.pdf).
 * July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!
 * June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!
-* May'23: I joined the PC of [CSF 2024](https://csf2024.ieee-security.org/index.html).
 
 <details>
 <summary>Show more news</summary>
   <ul>
+    <li> May'23: I joined the PC of <a href=https://csf2024.ieee-security.org/index.html">CSF 2024</a>.</li>
     <li> March'23: Our paper <i>Automata-Based Software Model Checking of Hyperproperties</i> has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself. </li>
     <li> Feb'23: I joined the PC of <a href="https://ictac2023.compsust.utec.edu.pe">ICTAC 2023</a>.</li>
     <li> Feb'23: My PhD thesis is now available <a href="https://janahofmann.github.io/files/dissertation_jana_hofmann.pdf">here</a>.</li>
