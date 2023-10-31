@@ -15,6 +15,8 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 # News!
 
+* October'23: I was awarded the *Dr.-Eduard-Martin* prize for best Computer Science Ph.D. thesis at Saarland University this year. For a 3-minute summary of my dissertation (in German) click [here](https://cispa.de/en/eduard-martin-prize).
+* October'23: I joined the PC of [CAV 2024](http://i-cav.org/2024/call-for-papers/).
 * July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper [here](https://arxiv.org/pdf/2208.07180.pdf).
 * July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!
 * June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!
@@ -23,7 +25,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <details>
 <summary>Show more news</summary>
   <ul>
-    <li>March'23: Our paper <i>Automata-Based Software Model Checking of Hyperproperties</i> has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself. </li>
+    <li> March'23: Our paper <i>Automata-Based Software Model Checking of Hyperproperties</i> has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself. </li>
     <li> Feb'23: I joined the PC of <a href="https://ictac2023.compsust.utec.edu.pe">ICTAC 2023</a>.</li>
     <li> Feb'23: My PhD thesis is now available <a href="https://janahofmann.github.io/files/dissertation_jana_hofmann.pdf">here</a>.</li>
     <li> Dec'22: I successfully defended my Ph.D. thesis!</li>
@@ -35,7 +37,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 # Publications
 * [Reactive Synthesis of Smart Contract Control Flows](https://arxiv.org/pdf/2205.06039.pdf)<br>
   With Bernd Finkbeiner, Noemi Passing, and Florian Kohn<br>
-  To appear at the 21st International Symposium on Automated Technology for Verification and Analysis (**ATVA 2023**).
+  21st International Symposium on Automated Technology for Verification and Analysis (**ATVA 2023**).
 * [Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions](https://www.usenix.org/system/files/usenixsecurity23-hofmann.pdf)<br>
   With Emanuele Vannacci, Cédric Fournet, Boris Köpf, and Oleksii Oleksenko<br>
   **USENIX Security 2023**.
@@ -68,8 +70,18 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
   With Norine Coenen, Bernd Finkbeiner and Christopher Hahn<br>
   34th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2019**).
 
-# Talks
+# Presentations
 
+* **Formal Reasoning for the Detection of Microarchitectural Side Channels**
+  Invited Talk for Woman@CL at Cambridge University, October 2023
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**
+  Invited Talk at Seoul National University, October 2023
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**
+  Invited Talk at Stanford University, August 2023
+* **Smart Contract Synthesis Modulo Hyperproperties**
+  Paper presentation at CSF'23
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**
+  Invited Talk at CISPA Helmholtz Center for Information Security, May 2023
 * **Deciding Hyperproperties Combined with Functional Specifications**<br>
   Paper presentation at LICS'22, [slides](http://janahofmann.github.io/files/talk_LICS2022.pdf)
 * **The Hierarchy of Hyperlogics: A Knowledge Reasoning Perspective**<br>
@@ -112,7 +124,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * Winter 2013/2014:	Re-exam Student TA for Programmierung 1, Saarland University
 
 # Scientific Service
-* **Program Committee**: CSF'23, ICTAC'23, CAV'22 Artifact Evaluation
+* **Program Committee**: CAV'24, CSF'23, ICTAC'23, CAV'22 Artifact Evaluation
 * **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
 
 # CV
@@ -120,5 +132,3 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * 2018 - 2022: Dr. rer. nat. at Saarland University / CISPA
 * 2016 - 2017: M.Sc. in Computer Science at University of Edinburgh
 * 2013 - 2016: B.Sc. in Computer Science at Saarland University 
-
-A full (occasionally updated) CV can be found [here](http://janahofmann.github.io/files/cv_jana_hofmann.pdf).
