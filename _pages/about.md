@@ -72,15 +72,15 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 # Presentations
 
-* **Formal Reasoning for the Detection of Microarchitectural Side Channels**
+* **Formal Reasoning for the Detection of Microarchitectural Side Channels**<br>
   Invited Talk for Woman@CL at Cambridge University, October 2023
-* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
   Invited Talk at Seoul National University, October 2023
-* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
   Invited Talk at Stanford University, August 2023
-* **Smart Contract Synthesis Modulo Hyperproperties**
+* **Smart Contract Synthesis Modulo Hyperproperties**<br>
   Paper presentation at CSF'23
-* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**
+* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
   Invited Talk at CISPA Helmholtz Center for Information Security, May 2023
 * **Deciding Hyperproperties Combined with Functional Specifications**<br>
   Paper presentation at LICS'22, [slides](http://janahofmann.github.io/files/talk_LICS2022.pdf)
