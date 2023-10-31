@@ -15,7 +15,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 # News!
 
-* October'23: I was awarded the *Dr.-Eduard-Martin* prize for best Computer Science Ph.D. thesis at Saarland University this year. For a 3-minute summary of my dissertation (in German) click [here](https://cispa.de/en/eduard-martin-prize).
+* October'23: I was awarded the [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for best Computer Science Ph.D. thesis at Saarland University this year. For a 3-minute summary of my dissertation (in German) click [here](https://cispa.de/en/eduard-martin-prize).
 * October'23: I joined the PC of [CAV 2024](http://i-cav.org/2024/call-for-papers/).
 * July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper [here](https://arxiv.org/pdf/2208.07180.pdf).
 * July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!
