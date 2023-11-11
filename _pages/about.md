@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (also called hyperproperties). In particular, I work on principled methods to model and prevent information leakage of microarchtectural side channels.
+I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (also called hyperproperties). In particular, I work on principled methods to model and prevent information leakage through microarchtectural side channels.
 
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
 
@@ -73,24 +73,24 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 # Presentations
 
 * **Formal Reasoning for the Detection of Microarchitectural Side Channels**<br>
-  Invited Talk at Woman@CL at Cambridge University, October 2023  
+  Invited talk at Woman@CL at Cambridge University, October 2023  
 * **Smart Contract Synthesis Modulo Hyperproperties**<br>
   Paper presentation at CSF'23
 * **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
-  * Invited Talk at Seoul National University, October 2023
-  * Invited Talk at Stanford University, August 2023
-  * Invited Talk at CISPA Helmholtz Center for Information Security, May 2023
+  * Invited talk at Seoul National University, October 2023
+  * Invited talk at Stanford University, August 2023
+  * Invited talk at CISPA Helmholtz Center for Information Security, May 2023
 * **Deciding Hyperproperties Combined with Functional Specifications**<br>
-  Paper presentation at LICS'22, [slides](http://janahofmann.github.io/files/talk_LICS2022.pdf)
+  Paper presentation at LICS'22
 * **Logics for the Specification of Hyperproperties**<br>
   Speaker at the 4th CISPA-LORIA workshop, April 2022
 * **The Hierarchy of Hyperlogics: A Knowledge Reasoning Perspective**<br>
-  Recently published research track at KR'22, [slides](http://janahofmann.github.io/files/talk_KR2020.pdf), [YouTube recording](https://www.youtube.com/watch?v=6RvgBaWC374)  
+  Recently published research track at KR'22, [YouTube recording](https://www.youtube.com/watch?v=6RvgBaWC374)  
 * **Logics for Hyperproperties**<br>
-  * Invited Talk at IST Austria, July 2020
-  * Invited Talk at Tel Aviv University, September 2019
-  * Invited Talk at Yale University, July 2020
-  * Invited Talk at UC Berkeley, July 2010  
+  * Invited talk at IST Austria, July 2020
+  * Invited talk at Tel Aviv University, September 2019
+  * Invited talk at Yale University, July 2019
+  * Invited talk at UC Berkeley, July 2019  
 * **The Hierarchy of Hyperlogics**<br>
   Paper presentation at LICS'19
 
