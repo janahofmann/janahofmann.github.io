@@ -24,7 +24,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <details>
 <summary>Show more news</summary>
   <ul>
-    <li> May'23: I joined the PC of <a href=https://csf2024.ieee-security.org/index.html">CSF 2024</a>.</li>
+    <li> May'23: I joined the PC of <a href="https://csf2024.ieee-security.org/index.html">CSF 2024</a>.</li>
     <li> March'23: Our paper <i>Automata-Based Software Model Checking of Hyperproperties</i> has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself. </li>
     <li> Feb'23: I joined the PC of <a href="https://ictac2023.compsust.utec.edu.pe">ICTAC 2023</a>.</li>
     <li> Feb'23: My PhD thesis is now available <a href="https://janahofmann.github.io/files/dissertation_jana_hofmann.pdf">here</a>.</li>
