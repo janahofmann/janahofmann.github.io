@@ -47,11 +47,10 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
   With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
   36th IEEE Computer Security Foundations Symposium (**CSF 2023**).<br>
-  **Distinguished Paper Award** :trophy: 
+  :trophy: **Distinguished Paper Award** 
 * [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
-  Dissertation<br>
-  Saarland University, 2022
-  **Dr.-Eduard-Martin prize** :trophy: 
+  Dissertation, Saarland University, 2022.<br>
+  :trophy: **Dr.-Eduard-Martin prize**
 * [Deciding Hyperproperties Combined with Functional Specifications](https://arxiv.org/pdf/2205.15138.pdf)<br>
   With Raven Beutner, David Carral, Bernd Finkbeiner and Markus Krötzsch<br>
   37th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2022**).
@@ -94,9 +93,10 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * **Logics for Hyperproperties**<br>
   Invited Talk at Tel Aviv University, September 2019
 * **Logics for Hyperproperties**<br>
-  Invited Talk at Yale University, July 2020
+  * Invited Talk at Yale University, July 2020
+  * Invited Talk at UC Berkeley, July 2010
 * **Logics for Hyperproperties**<br>
-  Invited Talk at UC Berkeley, July 2010
+  
 * **The Hierarchy of Hyperlogics**<br>
   Paper presentation at LICS'19
 
@@ -120,7 +120,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 ### As Student
 * Summer 2018: Coach for Mathematics Precourse at Saarland University
 * Summer 2017:	Lecturer and Coach for Mathematics Precourse at Saarland University<br>
-  **BeStE award** for student initiatives and extraordinary commitment :trophy:
+  :trophy: **BeStE award** for student initiatives and extraordinary commitment
 * Summer 2017:	Student TA for Theoretical Computer Science at the School of Informatics, University of Edinburgh
 * Winter 2016/2017:	Student TA for Informatics I – Functional Programming at the School of Informatics, University of Edinburgh
 * Summer 2016: Coach for Mathematics Precourse, Saarland University
