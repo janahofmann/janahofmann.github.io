@@ -49,8 +49,8 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
   36th IEEE Computer Security Foundations Symposium (**CSF 2023**).<br>
   :trophy: **Distinguished Paper Award** 
 * [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
-  Dissertation, Saarland University, 2022<br>
-  [10-page summary](http://janahofmann.github.io/files/summary_dissertation.pdf).<br>
+  Dissertation, Saarland University, 2022.<br>
+  [10-page summary](http://janahofmann.github.io/files/summary_dissertation.pdf)<br>
   :trophy: **Dr.-Eduard-Martin prize**
 * [Deciding Hyperproperties Combined with Functional Specifications](https://arxiv.org/pdf/2205.15138.pdf)<br>
   With Raven Beutner, David Carral, Bernd Finkbeiner and Markus Krötzsch<br>
