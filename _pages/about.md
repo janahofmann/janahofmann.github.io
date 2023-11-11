@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (also called hyperproperties). In particular, I work on principled methods to model and prevent information leakage of microarchtectural side channels.
 
-I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf.
+I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
 
 
 # News!
@@ -47,11 +47,11 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
   With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
   36th IEEE Computer Security Foundations Symposium (**CSF 2023**).<br>
-  :trophy: **Distinguished Paper Award** 
+  **Distinguished Paper Award** :trophy: 
 * [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
   Dissertation<br>
   Saarland University, 2022
-  :trophy: Dr.-Eduard-Martin prize
+  **Dr.-Eduard-Martin prize** :trophy: 
 * [Deciding Hyperproperties Combined with Functional Specifications](https://arxiv.org/pdf/2205.15138.pdf)<br>
   With Raven Beutner, David Carral, Bernd Finkbeiner and Markus Krötzsch<br>
   37th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2022**).
@@ -120,7 +120,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 ### As Student
 * Summer 2018: Coach for Mathematics Precourse at Saarland University
 * Summer 2017:	Lecturer and Coach for Mathematics Precourse at Saarland University<br>
-  :trophy: **BeStE award** for student initiatives and extraordinary commitment
+  **BeStE award** for student initiatives and extraordinary commitment :trophy:
 * Summer 2017:	Student TA for Theoretical Computer Science at the School of Informatics, University of Edinburgh
 * Winter 2016/2017:	Student TA for Informatics I – Functional Programming at the School of Informatics, University of Edinburgh
 * Summer 2016: Coach for Mathematics Precourse, Saarland University
