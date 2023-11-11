@@ -73,30 +73,24 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 # Presentations
 
 * **Formal Reasoning for the Detection of Microarchitectural Side Channels**<br>
-  Invited Talk for Woman@CL at Cambridge University, October 2023
-* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
-  Invited Talk at Seoul National University, October 2023
-* **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
-  Invited Talk at Stanford University, August 2023
+  Invited Talk at Woman@CL at Cambridge University, October 2023  
 * **Smart Contract Synthesis Modulo Hyperproperties**<br>
   Paper presentation at CSF'23
 * **Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions**<br>
-  Invited Talk at CISPA Helmholtz Center for Information Security, May 2023
+  * Invited Talk at Seoul National University, October 2023
+  * Invited Talk at Stanford University, August 2023
+  * Invited Talk at CISPA Helmholtz Center for Information Security, May 2023
 * **Deciding Hyperproperties Combined with Functional Specifications**<br>
   Paper presentation at LICS'22, [slides](http://janahofmann.github.io/files/talk_LICS2022.pdf)
 * **Logics for the Specification of Hyperproperties**<br>
   Speaker at the 4th CISPA-LORIA workshop, April 2022
 * **The Hierarchy of Hyperlogics: A Knowledge Reasoning Perspective**<br>
-  Recently published research track at KR'22, [slides](http://janahofmann.github.io/files/talk_KR2020.pdf), [YouTube recording](https://www.youtube.com/watch?v=6RvgBaWC374)
+  Recently published research track at KR'22, [slides](http://janahofmann.github.io/files/talk_KR2020.pdf), [YouTube recording](https://www.youtube.com/watch?v=6RvgBaWC374)  
 * **Logics for Hyperproperties**<br>
-  Invited Talk at IST Austria, July 2020
-* **Logics for Hyperproperties**<br>
-  Invited Talk at Tel Aviv University, September 2019
-* **Logics for Hyperproperties**<br>
+  * Invited Talk at IST Austria, July 2020
+  * Invited Talk at Tel Aviv University, September 2019
   * Invited Talk at Yale University, July 2020
-  * Invited Talk at UC Berkeley, July 2010
-* **Logics for Hyperproperties**<br>
-  
+  * Invited Talk at UC Berkeley, July 2010  
 * **The Hierarchy of Hyperlogics**<br>
   Paper presentation at LICS'19
 
