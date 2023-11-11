@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (hyperproperties). Currently, I work on modelling information leakage of microarchtectural side channels.
+I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (hyperproperties). In particular, I work on principled methods to model and prevent information leakage of microarchtectural side channels.
 
-I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html).
+I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf.
 
 
 # News!
@@ -47,10 +47,11 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * [Smart Contract Synthesis Modulo Hyperproperties](https://arxiv.org/pdf/2208.07180.pdf)<br>
   With Norine Coenen, Bernd Finkbeiner and Julia Tillman<br>
   36th IEEE Computer Security Foundations Symposium (**CSF 2023**).<br>
-  **Distinguished Paper Award** :trophy:
+  :trophy: **Distinguished Paper Award** 
 * [Logical Methods for the Hierarchy of Hyperlogics](http://janahofmann.github.io/files/dissertation_jana_hofmann.pdf)<br>
   Dissertation<br>
   Saarland University, 2022
+  :trophy: Dr.-Eduard-Martin prize
 * [Deciding Hyperproperties Combined with Functional Specifications](https://arxiv.org/pdf/2205.15138.pdf)<br>
   With Raven Beutner, David Carral, Bernd Finkbeiner and Markus Krötzsch<br>
   37th Annual ACM/IEEE Symposium on Logic in Computer Science (**LICS 2022**).
@@ -84,12 +85,20 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
   Invited Talk at CISPA Helmholtz Center for Information Security, May 2023
 * **Deciding Hyperproperties Combined with Functional Specifications**<br>
   Paper presentation at LICS'22, [slides](http://janahofmann.github.io/files/talk_LICS2022.pdf)
+* **Logics for the Specification of Hyperproperties**<br>
+  Speaker at the 4th CISPA-LORIA workshop, April 2022
 * **The Hierarchy of Hyperlogics: A Knowledge Reasoning Perspective**<br>
   Recently published research track at KR'22, [slides](http://janahofmann.github.io/files/talk_KR2020.pdf), [YouTube recording](https://www.youtube.com/watch?v=6RvgBaWC374)
 * **Logics for Hyperproperties**<br>
-  Invited Talk at IST Austria, July 2020, [slides](http://janahofmann.github.io/files/talk_ISTAustria.pdf)
+  Invited Talk at IST Austria, July 2020
+* **Logics for Hyperproperties**<br>
+  Invited Talk at Tel Aviv University, September 2019
+* **Logics for Hyperproperties**<br>
+  Invited Talk at Yale University, July 2020
+* **Logics for Hyperproperties**<br>
+  Invited Talk at UC Berkeley, July 2010
 * **The Hierarchy of Hyperlogics**<br>
-  Paper presentation at LICS'19, [slides](http://janahofmann.github.io/files/talk_LICS2019.pdf)
+  Paper presentation at LICS'19
 
 
 # Teaching
@@ -111,7 +120,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 ### As Student
 * Summer 2018: Coach for Mathematics Precourse at Saarland University
 * Summer 2017:	Lecturer and Coach for Mathematics Precourse at Saarland University<br>
-  received **BeStE award** for student initiatives and extraordinary commitment
+  :trophy: **BeStE award** for student initiatives and extraordinary commitment
 * Summer 2017:	Student TA for Theoretical Computer Science at the School of Informatics, University of Edinburgh
 * Winter 2016/2017:	Student TA for Informatics I – Functional Programming at the School of Informatics, University of Edinburgh
 * Summer 2016: Coach for Mathematics Precourse, Saarland University
