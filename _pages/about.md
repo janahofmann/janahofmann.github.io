@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in specification languages and algorithms for relational properties (also called hyperproperties). In particular, I work on principled methods to model and prevent information leakage through microarchtectural side channels.
+I am a postdoctoral researcher at [Azure Research](https://www.microsoft.com/en-us/research/group/azure-research/) (the former Confidential Computing group at Microsoft Research) interested in formal reasoning about relational security properties like noninterference (also called hyperproperties). I develop specification languages, verification and synthesis algorithms, as well as modeling and testing techniques.
+In particular, I work on principled methods to detect, model, and prevent information leakage through microarchtectural side channels.
 
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
 
