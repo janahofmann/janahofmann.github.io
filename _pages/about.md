@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track faculty at [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I am interested in formal reasoning about relational security properties like noninterference (also called hyperproperties). I develop specification languages, verification and synthesis algorithms, as well as modeling and testing techniques.
+I am a tenure-track faculty at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I am interested in formal reasoning about relational security properties like noninterference (also called hyperproperties). I develop specification languages, verification and synthesis algorithms, as well as modeling and testing techniques.
 In particular, I work on principled methods to detect, model, and prevent information leakage through microarchtectural side channels.
 
 Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/), where I worked on detection mechanisms and defenses for microarchitectural side-channels.
@@ -23,7 +23,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <details>
 <summary>Show older news</summary>
   <ul>
-    <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024<\a>.</li>
+    <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
     <li> July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here<\a>].</li>
     <li> July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!</li>
     <li> June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!</li>
