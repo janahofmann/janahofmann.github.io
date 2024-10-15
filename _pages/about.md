@@ -121,7 +121,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * Summer 2019: Advisor for Proseminar Softwarezuverlässigkeit (Software Reliability)
 * Winter 2018/2019:	Assistant for Seminar Hyperproperties
 
-### As Student
+### Before PhD
 * Summer 2018: Coach for Mathematics Precourse at Saarland University
 * Summer 2017:	Lecturer and Coach for Mathematics Precourse at Saarland University<br>
   :trophy: **BeStE award** for student initiatives and extraordinary commitment
@@ -137,11 +137,12 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * Winter 2013/2014:	Re-exam Student TA for Programmierung 1, Saarland University
 
 # Scientific Service
-* **Program Committee**: CAV'24, CSF'23, ICTAC'23, CAV'22 Artifact Evaluation
+* **Program Committee**: CSF'25, CAV'24, CSF'24, ICTAC'23, CAV'22 Artifact Evaluation
 * **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
 
 # Short CV
-* Since Sep'22: Postdoctoral Researcher at Microsoft Research / Azure Research
+* Since Oct'2024: Tenure-Track Faculty at MPI-SP
+* 2022 - 2024: Postdoctoral Researcher at Microsoft Research / Azure Research
 * 2018 - 2022: Dr. rer. nat. at Saarland University / CISPA
 * 2016 - 2017: M.Sc. in Computer Science at University of Edinburgh
 * 2013 - 2016: B.Sc. in Computer Science at Saarland University 

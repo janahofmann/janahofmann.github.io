@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jana Hofmann"
 title_separator          : "-"
 name                     : &name "Jana Hofmann"
-description              : &description "Postdoctoral Researcher at Microsoft"
+description              : &description "Tenure-Track Faculty at MPI-SP"
 url                      : https://janahofmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janahofmann.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jana Hofmann"
   avatar           : "profile_pic.jpeg"
-  bio              : "Postdoctoral researcher interested in principled reasoning for relational properties."
+  bio              : "Researcher interested in principled reasoning for relational properties."
   location         : 
-  employer         : "Microsoft, Cambridge (UK)"
+  employer         : "MPI-SP, Bochum (Germany)"
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=w2HMTMAAAAAJ&hl=en"
-  email            : t-jhofmann@microsoft.com
+  email            : jana.hofmann@mpi-sp.org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
