@@ -24,7 +24,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <summary>Show older news</summary>
   <ul>
     <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
-    <li> July'23: Our paper <i>Smart Contract Synthesis Modulo Hyperproperties</i> won a <b>Distinguished Paper Award** at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
+    <li> July'23: Our paper <i>Smart Contract Synthesis Modulo Hyperproperties</i> won a <b>Distinguished Paper Award</b> at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
     <li> July'23: Our paper <i>Reactive Synthesis of Smart Contract Control Flows</i> was accepted at ATVA'23!</li>
     <li> June'23: Our paper <i>Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions</i> was accepted at USENIX Security'23! See you in Anaheim!</li>
     <li> May'23: I joined the PC of <a href="https://csf2024.ieee-security.org/index.html">CSF 2024</a>.</li>
