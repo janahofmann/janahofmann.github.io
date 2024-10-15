@@ -16,7 +16,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 
 # News!
-* July'24: We have two papers accepted at CCS'24! One titled **Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring** and the other titled **Principled Microarchitectural Isolation on Cloud CPUs**. 
+* July'24: We have two papers accepted at CCS'24! One titled *Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring* and the other titled *Principled Microarchitectural Isolation on Cloud CPUs*. 
 * April'24: I will start as a tenure-track faculty at [MPI-SP](https://www.mpi-sp.org) in October 2024.
 * October'23: I was awarded the [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for best Computer Science Ph.D. thesis at Saarland University this year. For a 3-minute summary of my dissertation (in German) click [here](https://cispa.de/en/eduard-martin-prize).
 
@@ -24,7 +24,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <summary>Show older news</summary>
   <ul>
     <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
-    <li> July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here<\a>.</li>
+    <li> July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
     <li> July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!</li>
     <li> June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!</li>
     <li> May'23: I joined the PC of <a href="https://csf2024.ieee-security.org/index.html">CSF 2024</a>.</li>
@@ -38,7 +38,7 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <br>
 
 # Publications
-* Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring<br>
+* [Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring](http://janahofmann.github.io/files/ccs24-gaussian-elimination-side-channels.pdf)<br>
   With Stavros Volos, Cédric Fournet, and Boris Köpf<br>
   To appear at the ACM Conference on Computer and Communications Security 2024 (**CCS 2024**).
 * Principled Microarchitectural Isolation on Cloud CPUs<br>
