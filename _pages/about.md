@@ -24,9 +24,9 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <summary>Show older news</summary>
   <ul>
     <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
-    <li> July'23: Our paper *Smart Contract Synthesis Modulo Hyperproperties* won a **Distinguished Paper Award** at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
-    <li> July'23: Our paper *Reactive Synthesis of Smart Contract Control Flows* was accepted at ATVA'23!</li>
-    <li> June'23: Our paper *Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions* was accepted at USENIX Security'23! See you in Anaheim!</li>
+    <li> July'23: Our paper <i>Smart Contract Synthesis Modulo Hyperproperties</i> won a <b>Distinguished Paper Award** at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
+    <li> July'23: Our paper <i>Reactive Synthesis of Smart Contract Control Flows</i> was accepted at ATVA'23!</li>
+    <li> June'23: Our paper <i>Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions</i> was accepted at USENIX Security'23! See you in Anaheim!</li>
     <li> May'23: I joined the PC of <a href="https://csf2024.ieee-security.org/index.html">CSF 2024</a>.</li>
     <li> March'23: Our paper <i>Automata-Based Software Model Checking of Hyperproperties</i> has been accepted at NFM'23. This work builds on Janine Lohse's Bachelor's thesis supervised by Hadar Frenkel and myself. </li>
     <li> Feb'23: I joined the PC of <a href="https://ictac2023.compsust.utec.edu.pe">ICTAC 2023</a>.</li>
