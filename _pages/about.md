@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track faculty at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I am interested in formal reasoning about relational security properties like noninterference (also called hyperproperties). I develop specification languages, verification and synthesis algorithms, as well as modeling and testing techniques.
-In particular, I work on principled methods to detect, model, and prevent information leakage through microarchtectural side channels.
+I am a tenure-track researcher at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I investigate how to establish trust in information systems via strong security and privacy guarantees, both for hardware and software. In particular, I work on detecting, specifying, and preventing information leakage through microarchitectural side-channels. I develop specifiaction languages and models, verification and synthesis algorithms, as well as testing techniques for black-box systems.
 
 Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/), where I worked on detection mechanisms and defenses for microarchitectural side-channels.
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
 
 
 # News!
+* Our paper *Principled Microarchitectural Isolation on Cloud CPUs* won a **distinguished paper award** at CCS'24!
+* I will serve as Sponsorship Chair at CAV'25. I've also joined the PC of the Formal Methods & Programming Languages track at CCS'25.
 * July'24: We have two papers accepted at CCS'24! One titled *Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring* and the other titled *Principled Microarchitectural Isolation on Cloud CPUs*. 
 * April'24: I will start as a tenure-track faculty at [MPI-SP](https://www.mpi-sp.org) in October 2024.
-* October'23: I was awarded the [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for best Computer Science Ph.D. thesis at Saarland University this year. For a 3-minute summary of my dissertation (in German) click [here](https://cispa.de/en/eduard-martin-prize).
 
 <details>
 <summary>Show older news</summary>
   <ul>
+    <li> October'23: I was awarded the <a href="https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html">Dr.-Eduard-Martin prize</a> for the best Computer Science Ph.D. thesis at Saarland University in 2022. For a 3-minute summary of my dissertation (in German) click <a href="https://cispa.de/en/eduard-martin-prize">here</a>. </li>
     <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
     <li> July'23: Our paper <i>Smart Contract Synthesis Modulo Hyperproperties</i> won a <b>Distinguished Paper Award</b> at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
     <li> July'23: Our paper <i>Reactive Synthesis of Smart Contract Control Flows</i> was accepted at ATVA'23!</li>
@@ -40,10 +41,11 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 # Publications
 * [Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring](http://janahofmann.github.io/files/ccs24-gaussian-elimination-side-channels.pdf)<br>
   With Stavros Volos, Cédric Fournet, and Boris Köpf<br>
-  To appear at the ACM Conference on Computer and Communications Security 2024 (**CCS 2024**).
+  ACM Conference on Computer and Communications Security 2024 (**CCS 2024**).
 * Principled Microarchitectural Isolation on Cloud CPUs<br>
   With Stavros Volos, Cédric Fournet, Boris Köpf, and Oleksii Oleksenko<br>
-  To appear at the ACM Conference on Computer and Communications Security 2024 (**CCS 2024**).
+  ACM Conference on Computer and Communications Security 2024 (**CCS 2024**).<br>
+  :trophy: **Distinguished Paper Award** 
 * [Reactive Synthesis of Smart Contract Control Flows](https://arxiv.org/pdf/2205.06039.pdf)<br>
   With Bernd Finkbeiner, Noemi Passing, and Florian Kohn<br>
   21st International Symposium on Automated Technology for Verification and Analysis (**ATVA 2023**).
@@ -82,6 +84,10 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 
 # Presentations
 
+* **Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring**<br>
+  Paper presentation at CCS'24
+* **Testing for Microarchitectural Information Flow Security**<br>
+  Invited talk at HYPER@CAV workshop, July 2024
 * **Formal Reasoning for the Detection of Microarchitectural Side Channels**<br>
   Invited talk at Woman@CL at Cambridge University, October 2023  
 * **Smart Contract Synthesis Modulo Hyperproperties**<br>
