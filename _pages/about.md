@@ -22,9 +22,9 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <details>
 <summary>Show older news</summary>
   <ul>
-    <li> September'24: I will serve as Sponsorship Chair at CAV'25. I've also joined the PC of the Formal Methods & Programming Languages track at CCS'25.
-    <li> July'24: We have two papers accepted at CCS'24! One titled <i>Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring</i> and the other titled <i>Principled Microarchitectural Isolation on Cloud CPUs</i>. 
-    <li> April'24: I will start as a tenure-track faculty at MPI-SP in October 2024.
+    <li> September'24: I will serve as Sponsorship Chair at CAV'25. I've also joined the PC of the Formal Methods & Programming Languages track at CCS'25. </li>
+    <li> July'24: We have two papers accepted at CCS'24! One titled <i>Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring</i> and the other titled <i>Principled Microarchitectural Isolation on Cloud CPUs</i>. </li>
+    <li> April'24: I will start as a tenure-track faculty at MPI-SP in October 2024.</li>
     <li> October'23: I was awarded the <a href="https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html">Dr.-Eduard-Martin prize</a> for the best Computer Science Ph.D. thesis at Saarland University in 2022. For a 3-minute summary of my dissertation (in German) click <a href="https://cispa.de/en/eduard-martin-prize">here</a>. </li>
     <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
     <li> July'23: Our paper <i>Smart Contract Synthesis Modulo Hyperproperties</i> won a <b>Distinguished Paper Award</b> at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
@@ -124,8 +124,12 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * **Julia Tillman**, Bachelor's thesis: Temporal Stream Logic for Hyperproperties (2020)
 * **Matthias Cosler**, Bachelor's thesis: Towards Synthesizing Smart Contracts: Reducing ATL* Synthesis to HyperLTL Synthesis (2019)
 
-## Assisted Lectures
-### During PhD
+## Lectures at Ruhr University Bochum
+
+* Winter 2025/26: Functional Programming (together with Clara Schneidewind)
+* Summer 2025: Foundations of Programming Languages, Verification, and Security (together with Cătălin Hrițcu)
+
+### Assisted Lectures During PhD
 * Winter 2020/2021:	Assistant for Basic Course Programmierung 1<br>
   received **Busy Beaver award** for outstanding teaching performance
 * Winter 2019/2020:	Assistant for Core Course Verification
@@ -148,7 +152,9 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * Winter 2013/2014:	Re-exam Student TA for Programmierung 1, Saarland University
 
 # Scientific Service
-* **Program Committee**: CSF'25, CAV'24, CSF'24, ICTAC'23, CAV'22 Artifact Evaluation
+* **Program Committees**: AsiaCCS'26, S&P'26, CCS'25, CAV'25, CSF'25, CAV'24, CSF'24, ICTAC'23, CAV'22 Artifact Evaluation
+* **Chairs**: PLAS@CCS'25 PC chair, CAV'25 sponsorhip chair
+* **Journals**: ACM-TOSM, ACM-TOPS
 * **External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
 
 # Short CV
