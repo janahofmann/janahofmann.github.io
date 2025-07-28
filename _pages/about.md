@@ -8,21 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track researcher at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I investigate how to establish trust in information systems by giving strong security and privacy guarantees, for both hardware and software. My work focuses on detecting, specifying, and preventing information leakage through microarchitectural side-channels. I develop specifiaction languages and models, verification and synthesis algorithms, as well as testing techniques for black-box systems.
+I am a tenure-track researcher at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org). I investigate how to establish trust in information systems by giving strong security and privacy guarantees, for both hardware and software. My work focuses on detecting, specifying, and preventing information leakage through microarchitectural side-channels. I develop specification languages and models, proof techniques, and testing approaches for black-box systems.
 
 Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/), where I worked on detection mechanisms and defenses for microarchitectural side-channels.
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
 
 
 # News!
+* After a long embargo, our paper [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](https://arxiv.org/abs/2507.06039) is available now. The paper describes [Transient Scheduler Attacks](https://thehackernews.com/2025/07/amd-warns-of-new-transient-scheduler.html) that can leak data across security boundaries.
+* I am a PC chair of [PLAS@CCS'25](https://plas25.github.io), the Programming Languages and Analysis for Security workshop at CCS. Join us at CCS'25 in Taipei!
 * Our paper *Principled Microarchitectural Isolation on Cloud CPUs* won a **distinguished paper award** at CCS'24!
-* I will serve as Sponsorship Chair at CAV'25. I've also joined the PC of the Formal Methods & Programming Languages track at CCS'25.
-* July'24: We have two papers accepted at CCS'24! One titled *Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring* and the other titled *Principled Microarchitectural Isolation on Cloud CPUs*. 
-* April'24: I will start as a tenure-track faculty at [MPI-SP](https://www.mpi-sp.org) in October 2024.
 
 <details>
 <summary>Show older news</summary>
   <ul>
+    <li> September'24: I will serve as Sponsorship Chair at CAV'25. I've also joined the PC of the Formal Methods & Programming Languages track at CCS'25.
+    <li> July'24: We have two papers accepted at CCS'24! One titled <i>Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring</i> and the other titled <i>Principled Microarchitectural Isolation on Cloud CPUs</i>. 
+    <li> April'24: I will start as a tenure-track faculty at MPI-SP in October 2024.
     <li> October'23: I was awarded the <a href="https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html">Dr.-Eduard-Martin prize</a> for the best Computer Science Ph.D. thesis at Saarland University in 2022. For a 3-minute summary of my dissertation (in German) click <a href="https://cispa.de/en/eduard-martin-prize">here</a>. </li>
     <li> October'23: I joined the PC of <a href="http://i-cav.org/2024/call-for-papers/">CAV 2024</a>.</li>
     <li> July'23: Our paper <i>Smart Contract Synthesis Modulo Hyperproperties</i> won a <b>Distinguished Paper Award</b> at CSF'23! Find the paper <a href="https://arxiv.org/pdf/2208.07180.pdf">here</a>.</li>
@@ -39,6 +41,9 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 <br>
 
 # Publications
+* [Enter, Exit, Page Fault, Leak: Testing Isolation Boundaries for Microarchitectural Leaks](https://arxiv.org/abs/2507.06039)<br>
+  With Oleksii Oleksenko, Flavien Solt, Cédric Fournet, Boris Köpf, and Stavros Volos<br>
+  Accepted at (**S&P 2025**), to appear at the 47th IEEE Symposium on Security and Privacy (**S&P 2026**), 
 * [Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring](http://janahofmann.github.io/files/ccs24-gaussian-elimination-side-channels.pdf)<br>
   With Stavros Volos, Cédric Fournet, and Boris Köpf<br>
   ACM Conference on Computer and Communications Security 2024 (**CCS 2024**).
