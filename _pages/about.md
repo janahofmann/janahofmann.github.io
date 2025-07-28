@@ -124,7 +124,9 @@ I obtained my PhD from [Saarland University](https://saarland-informatics-campus
 * **Julia Tillman**, Bachelor's thesis: Temporal Stream Logic for Hyperproperties (2020)
 * **Matthias Cosler**, Bachelor's thesis: Towards Synthesizing Smart Contracts: Reducing ATL* Synthesis to HyperLTL Synthesis (2019)
 
-## Lectures at Ruhr University Bochum
+## Lectures
+
+### At Ruhr University Bochum
 
 * Winter 2025/26: Functional Programming (together with Clara Schneidewind)
 * Summer 2025: Foundations of Programming Languages, Verification, and Security (together with Cătălin Hrițcu)
