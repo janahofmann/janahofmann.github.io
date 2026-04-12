@@ -40,12 +40,23 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Open positions -->
+    {% if page.open_positions %}
+      <div class="open-positions">
+        <h2>open positions</h2>
+        {{ page.open_positions | markdownify }}
+      </div>
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
+      <p class="more-news-link">
+        <a href="{{ '/news/' | relative_url }}">older news</a>
+      </p>
     {% endif %}
 
     <!-- Latest posts -->
@@ -59,9 +70,12 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">recent publications</a>
       </h2>
       {% include selected_papers.liquid %}
+      <p class="more-publications-link">
+        <a href="{{ '/publications/' | relative_url }}">more publications</a>
+      </p>
     {% endif %}
 
     <!-- Social -->
