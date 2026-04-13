@@ -15,8 +15,9 @@ nav_order: 3
 - CCS: 2025, 2026
 - CAV: 2024, 2025
 - CSF: 2024, 2025
-- AsiaCCS: 2026
-- ICTAC: 2023
+- Others: AsiaCCS'26, NETYS'26, ICTAC'23
 - Artifact Evaluation: CAV'22
 
-**External Reviewer**: LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
+**External Reviewer**: FoIKS'24, LICS’22, TACAS’21, MFCS’21, CONCUR’21, ATVA’21, CAV’21, LICS’21, CONCUR’20, KR’20, ICALP’20, TACAS’20, CSL’20, ATVA’19
+
+**Journals I've reviewed for**: ACM-TOSEM, ACM-TOPS, Acta Informatica
