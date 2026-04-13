@@ -27,8 +27,11 @@ latest_posts:
 ---
 
 I'm a tenure-track faculty at <a href='https://www.mpi-sp.org'>Max-Planck Institute for Security and Privacy (MPI-SP)</a>, where I lead the group for [Foundations of Information Security and Trust](https://www.mpi-sp.org/hofmann).
-I investigate how to establish trust in information systems by giving strong security and privacy guarantees, for both hardware and software. My work focuses on detecting, specifying, and preventing information leakage through microarchitectural side channels. I develop specification languages and models, proof techniques, and testing approaches for black-box systems.
+I am also a principle investigator at the [CASA Cluster of Excellence](https://casa.rub.de) at Ruhr University, Bochum. Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/).
+I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) while working at [CISPA](https://cispa.de/en).
 
-Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/), where I worked on detection mechanisms and defenses for microarchitectural side-channels.
-I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) (while working at [CISPA](https://cispa.de/en)) in 2022, where I was advised by [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html). My thesis was awarded with Saarland University's [Dr.-Eduard-Martin prize](https://www.uni-saarland.de/aktuell/eduard-martin-preise-2023-27582.html) for the best computer science dissertation of the year. A 10-page summary of my thesis (with a focus on logics) can be found [here](http://janahofmann.github.io/files/summary_dissertation.pdf).
+I develop techniques to establish strong security guarantees at the hardware-software interface, with a focus on information flow security. Much of my work addresses microarchitectural side channels, where I design methods to detect, formally specify, and ultimately prevent information leakage. My research combines techniques from formal methods, programming languages, and systems security research. I am working on both verification approaches for smaller, white-box hardware designs and model-based testing for larger-scale software and black-box hardware.
+
+
+
 
