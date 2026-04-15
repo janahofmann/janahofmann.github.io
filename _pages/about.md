@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a tenure-track faculty at <a href='https://www.mpi-sp.org'>Max-Planck Institute for Security and Privacy (MPI-SP)</a>, where I lead the group for [Foundations of Information Security and Trust](https://www.mpi-sp.org/hofmann).
+I'm a tenure-track faculty at <a href='https://www.mpi-sp.org'>Max-Planck Institute for Security and Privacy (MPI-SP)</a>, where I lead the group for [Formal Security Engineering](https://www.mpi-sp.org/hofmann).
 I am also a principle investigator at the [CASA Cluster of Excellence](https://casa.rub.de) at Ruhr University, Bochum. Previously, I was a researcher at [Azure Research, Microsoft](https://www.microsoft.com/en-us/research/group/azure-research/).
 I obtained my PhD from [Saarland University](https://saarland-informatics-campus.de) while working at [CISPA](https://cispa.de/en).
 
